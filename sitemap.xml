@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://manandearth.github.io/words/</loc>
     <lastmod>2025-10-04T19:50:13+02:00</lastmod>
   </url><url>
-    <loc>/words/my-first-post/</loc>
+    <loc>https://manandearth.github.io/words/posts/my-first-post/</loc>
     <lastmod>2025-10-04T19:50:13+02:00</lastmod>
   </url><url>
-    <loc>/words/</loc>
+    <loc>https://manandearth.github.io/words/posts/</loc>
     <lastmod>2025-10-04T19:50:13+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://manandearth.github.io/words/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://manandearth.github.io/words/tags/</loc>
   </url>
 </urlset>
