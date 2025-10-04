@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hba.sid.one/</loc>
     <lastmod>2025-10-04T19:50:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/words/my-first-post/</loc>
+    <loc>https://hba.sid.one/words/my-first-post/</loc>
     <lastmod>2025-10-04T19:50:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/words/</loc>
+    <loc>https://hba.sid.one/words/</loc>
     <lastmod>2025-10-04T19:50:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hba.sid.one/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hba.sid.one/tags/</loc>
   </url>
 </urlset>

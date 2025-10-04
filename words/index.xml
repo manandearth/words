@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Words on Awesome Hugo blog</title>
-    <link>http://localhost:1313/words/</link>
+    <link>https://hba.sid.one/words/</link>
     <description>Recent content in Words on Awesome Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 04 Oct 2025 19:50:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/words/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Oct 2025 19:50:13 +0200</lastBuildDate><atom:link href="https://hba.sid.one/words/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/words/my-first-post/</link>
+      <link>https://hba.sid.one/words/my-first-post/</link>
       <pubDate>Sat, 04 Oct 2025 19:50:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/words/my-first-post/</guid>
+      <guid>https://hba.sid.one/words/my-first-post/</guid>
       
       <description>&lt;p&gt;this is my first post&lt;/p&gt;</description>
       
